@@ -1,5 +1,5 @@
 # Object Detection for Beginners: Ball Detection
-<a href="https://www.kaggle.com/code/zeyadkhalid/object-detection-for-beginners-ball-detection">View on Kaggle</a>
+<a href="https://www.kaggle.com/code/zeyadkhalid/object-detection-for-beginners-ball-detection">View on Kaggle</a><br>
 <a href="https://www.kaggle.com/datasets/zeyadkhalid/ball-localization">Go to Dataset</a>
 <ul>
   <li>Custom Metrics</li>
