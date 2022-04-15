@@ -1,4 +1,5 @@
 # Object Detection for Beginners: Ball Detection
+<a href="https://www.kaggle.com/code/zeyadkhalid/object-detection-for-beginners-ball-detection">View on Kaggle</a>
 <ul>
   <li>Custom Metrics</li>
   <li>Custom Loss Function</li>
